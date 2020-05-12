@@ -14,5 +14,5 @@ then type open test.html.
 
 ## Examples
 
-<imng src="https://github.com/wronghandedryan/employee-template-engine/blob/master/test1.gif?raw=true">
+<img src="https://github.com/wronghandedryan/employee-template-engine/blob/master/test1.gif?raw=true">
 <img src="https://github.com/wronghandedryan/employee-template-engine/blob/master/test2.gif?raw=true">
